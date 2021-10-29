@@ -1,0 +1,13 @@
+.fade-in {
+    transition: opacity 1s ease;
+}
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.Infobox{
+    width: 80%;
+    padding: 0 5%;
+    color: white;
+}

@@ -1,0 +1,28 @@
+.Weather{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    /* background-color: magenta; */
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.temp{
+    font-size: 3rem;
+}
+.weatherType{
+    font-size: 1.5rem;
+}
+
+.Weather div{
+    display: flex;
+    flex-direction: column;
+
+}
+.Weather svg{
+    color: white;
+}
+
+

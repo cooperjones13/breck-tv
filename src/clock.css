@@ -1,0 +1,11 @@
+.time{
+    font-size: 2rem;
+}
+.Clock{
+    display: flex;
+    justify-content: flex-starts;
+    /* align-items: center; */
+    /* background: tan; */
+    color: white;
+    margin-left: 5%;
+}
